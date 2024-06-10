@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\Users\Nikita\source\repos\and\lab4\lab4.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Nikita\source\repos\and\lab4\lab4.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Nikita\source\repos\and\lab4\lab4.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  lab4.vcxproj -> C:\Users\Nikita\source\repos\and\lab4\x64\Debug\lab4.exe
